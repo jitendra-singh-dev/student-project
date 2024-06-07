@@ -1,4 +1,4 @@
-# student-project
+# student-projects
 this project use for student
 1. What the project does
 2. Why the project is useful
